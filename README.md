@@ -1,2 +1,2 @@
 # Azure_Analytics
-Data Science and Architecture for Azure
+Azure - Data Science and Architecture
